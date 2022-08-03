@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Comida",
+      "empresa": "Instituto Politécnico Nacional",
+      "email": "kit_586@hotmail.es",
+      "telefono": "154646",
+      "notas": "bmbnmbnm",
+      "id": 1
+    },
+    {
+      "nombre": "Alfredo",
+      "empresa": "Instituto Politécnico Nacional",
+      "email": "alfredomartinezruiz01@gmail.com",
+      "telefono": "+15532983339",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
